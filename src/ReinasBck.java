@@ -51,7 +51,7 @@ public class ReinasBck {
     }
 
     public static void main(String[] args) {
-        int n = 5;
+        int n = 6;
         int [][] matriz = new int[n][n];
         cantidadReinas(matriz, n, 0);
     }
